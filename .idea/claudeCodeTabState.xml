@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="projectPath" value="E:\workspace\data-agent" />
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="793bef1a-6968-43b3-b877-9dc59007b0a5" />
+              <option name="cwd" value="E:\workspace\data-agent" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="auto" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
